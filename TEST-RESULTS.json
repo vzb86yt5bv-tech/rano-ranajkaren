@@ -1,0 +1,359 @@
+{
+  "checks": 88,
+  "results": [
+    {
+      "test": "Home: four featured products",
+      "passed": true
+    },
+    {
+      "test": "Home: default combo is exactly EUR 6.00",
+      "passed": true
+    },
+    {
+      "test": "Combo: EUR 5.60 + 2.90 - 0.70 = 7.80",
+      "passed": true
+    },
+    {
+      "test": "Combo persists after reload",
+      "passed": true
+    },
+    {
+      "test": "Catalog: 16 products",
+      "passed": true
+    },
+    {
+      "test": "Category: 3 savory croissants",
+      "passed": true
+    },
+    {
+      "test": "Filter updates URL",
+      "passed": true
+    },
+    {
+      "test": "Combined category and vegetarian filters",
+      "passed": true
+    },
+    {
+      "test": "Search ignores Slovak accents",
+      "passed": true
+    },
+    {
+      "test": "Empty search state",
+      "passed": true
+    },
+    {
+      "test": "Reset restores 16 products",
+      "passed": true
+    },
+    {
+      "test": "Favorite state updates",
+      "passed": true
+    },
+    {
+      "test": "Saved-only view",
+      "passed": true
+    },
+    {
+      "test": "Favorites and filters persist after reload",
+      "passed": true
+    },
+    {
+      "test": "Removing final saved product shows empty state",
+      "passed": true
+    },
+    {
+      "test": "Sort by lowest price",
+      "passed": true
+    },
+    {
+      "test": "Quick-view dialog opens",
+      "passed": true
+    },
+    {
+      "test": "Quick-view title",
+      "passed": true
+    },
+    {
+      "test": "Escape closes dialog",
+      "passed": true
+    },
+    {
+      "test": "Product detail: croissant-sunka-syr",
+      "passed": true
+    },
+    {
+      "test": "Product detail: bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "Product detail: croissant-mozzarella",
+      "passed": true
+    },
+    {
+      "test": "Product detail: skoricovy-slimak",
+      "passed": true
+    },
+    {
+      "test": "Product detail: croissant-losos",
+      "passed": true
+    },
+    {
+      "test": "Product detail: bagel-vajce-cedar",
+      "passed": true
+    },
+    {
+      "test": "Product detail: bagel-avokado",
+      "passed": true
+    },
+    {
+      "test": "Product detail: vajicka-na-toaste",
+      "passed": true
+    },
+    {
+      "test": "Product detail: jogurt-granola",
+      "passed": true
+    },
+    {
+      "test": "Product detail: maslovy-croissant",
+      "passed": true
+    },
+    {
+      "test": "Product detail: mandlovy-croissant",
+      "passed": true
+    },
+    {
+      "test": "Product detail: cappuccino",
+      "passed": true
+    },
+    {
+      "test": "Product detail: flat-white",
+      "passed": true
+    },
+    {
+      "test": "Product detail: espresso",
+      "passed": true
+    },
+    {
+      "test": "Product detail: pomarancovy-fresh",
+      "passed": true
+    },
+    {
+      "test": "Product detail: caj",
+      "passed": true
+    },
+    {
+      "test": "Invalid product handled",
+      "passed": true
+    },
+    {
+      "test": "Allergen accordion expands",
+      "passed": true
+    },
+    {
+      "test": "Map is not loaded before consent",
+      "passed": true
+    },
+    {
+      "test": "Map added only after click",
+      "passed": true
+    },
+    {
+      "test": "FAQ expands",
+      "passed": true
+    },
+    {
+      "test": "Clear only removes project storage",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: index.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: menu.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: produkt.html?id=bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: o-nas.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: kontakt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: projekt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: menu-prehlad.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1440px: 404.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: index.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: menu.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: produkt.html?id=bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: o-nas.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: kontakt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: projekt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: menu-prehlad.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 1024px: 404.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: index.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: menu.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: produkt.html?id=bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: o-nas.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: kontakt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: projekt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: menu-prehlad.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 768px: 404.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: index.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: menu.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: produkt.html?id=bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: o-nas.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: kontakt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: projekt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: menu-prehlad.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 390px: 404.html",
+      "passed": true
+    },
+    {
+      "test": "Mobile navigation opens",
+      "passed": true
+    },
+    {
+      "test": "Mobile navigation Escape",
+      "passed": true
+    },
+    {
+      "test": "Mobile navigation changes page",
+      "passed": true
+    },
+    {
+      "test": "Mobile menu starts closed on new page",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: index.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: menu.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: produkt.html?id=bagel-losos",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: o-nas.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: kontakt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: projekt.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: menu-prehlad.html",
+      "passed": true
+    },
+    {
+      "test": "No horizontal overflow 320px: 404.html",
+      "passed": true
+    },
+    {
+      "test": "No uncaught JavaScript errors",
+      "passed": true
+    },
+    {
+      "test": "Corrupt localStorage tolerated",
+      "passed": true
+    },
+    {
+      "test": "Image error placeholder works",
+      "passed": true
+    }
+  ],
+  "javascript_errors": [],
+  "image_note": "External image servers were intentionally blocked to match the isolated runtime. Local fallback and all interactive functions were tested."
+}
